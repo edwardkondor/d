@@ -26,8 +26,6 @@
   </tr>
 </table>
 
-
-<!--
 <table align="left">
   <tr><th>
     <img src="https://glyphwiki.org/glyph/u5352.svg" alt="卒" height="36">
@@ -61,4 +59,3 @@
   <tr><td><ruby>新卒<rt>しんそつ</rt></ruby>　　new graduate</td></tr>
   <tr><td><ruby>既卒<rt>きそつ</rt></ruby>　　graduate</td></tr>
 </table>
--->
