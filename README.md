@@ -13,7 +13,7 @@
     <td>get drunk</td>
   </tr>
   <tr>
-    <td><ruby>麻酔<rt>ますい</rt></ruby></td>
+    <td><ruby><sub>ますい</sub><br>麻酔</ruby></td>
     <td>anesthesia</td>
   </tr>
   <tr>
