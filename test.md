@@ -17,11 +17,11 @@
     <td>anesthesia</td>
   </tr>
   <tr>
-    <td><ruby>泥酔<rt>でいすい</rt></ruby></td>
+    <td><ruby><sub>でいすい</sub><br>泥酔</ruby></td>
     <td>drunk</td>
   </tr>
   <tr>
-    <td><ruby>心酔<rt>しんすい</rt></ruby></td>
+    <td><ruby><sub>しんすい</sub><br>心酔</ruby></td>
     <td>intoxication</td>
   </tr>
 </table>
