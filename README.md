@@ -1,7 +1,7 @@
 <table align="left">
   <tr>
     <th>
-      <ruby><sub>すい</sub><br><sup>　</sup></ruby>　
+      スイ
     </th>
     <th>
       <img src="https://glyphwiki.org/glyph/u9154.svg" alt="酔" height="36">
